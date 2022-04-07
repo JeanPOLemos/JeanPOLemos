@@ -2,7 +2,7 @@
 
 🖥️⚙Estou aprendendo a programar.
 </div>
-Estudando e sempre procurando aprender algo novo
+Estudando e sempre procurando aprender algo novo.
 <div style="block: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
